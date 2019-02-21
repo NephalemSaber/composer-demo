@@ -9,7 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": "^7.1",
+        "another-vendor/package": "1.*"
+    },
     "autoload": {
         "psr-4": {
             "composerDemo\\":"src/"
