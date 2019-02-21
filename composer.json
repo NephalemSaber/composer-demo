@@ -16,5 +16,11 @@
         "psr-4": {
             "composerDemo\\":"src/"
         }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
